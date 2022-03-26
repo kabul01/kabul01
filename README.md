@@ -9,8 +9,6 @@ ________________________
 
 :soccer:I love to play football
 
-:pill:I love sports in general
-
 :dog2:love dogs
 
 
