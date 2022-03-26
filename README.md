@@ -3,7 +3,7 @@
 ## I'm Backend Developer
 ________________________
 
-:muscle:I like to write code
+:muscle:I enjoy writing code
 
 :boom:I am constantly learning new things
 
