@@ -21,7 +21,7 @@ ________________________
 
 
 ## Connect with me:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=00FF00)](https://t.me/Allazarovv)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=00FF00)](https://t.me/Allazarow)
 [![mail](https://img.shields.io/badge/-mail-090909?style=for-the-badge&logo=mail&logoColor=00FF00)](https://mail.ru/allazarov51)
 
 
