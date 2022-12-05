@@ -3,13 +3,6 @@
 ## I'm Backend Developer
 ________________________
 
-:muscle:I enjoy writing code
-
-:boom:I am constantly learning new things
-
-:soccer:I love to play football
-
-:dog2:love dogs
 
 
 ## Languages and Tools:
